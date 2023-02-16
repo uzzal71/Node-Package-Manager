@@ -4,7 +4,9 @@
   "description": "Learning Node Package Manager",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js --exec babel-node -e js"
+    "start": "nodemon ./index.js --exec babel-node -e js",
+    "nodemonthis": "nodemon ./index.js --exec babel-node -e js",
+    "createang": "npx -p @angular/cli ng new myapp"
   },
   "repository": {
     "type": "git",
