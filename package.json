@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/uzzal71/Node-Package-Manager/issues"
   },
-  "homepage": "https://github.com/uzzal71/Node-Package-Manager#readme"
+  "homepage": "https://github.com/uzzal71/Node-Package-Manager#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
 }
