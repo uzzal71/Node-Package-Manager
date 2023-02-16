@@ -1,0 +1,23 @@
+{
+  "name": "node-package-manager",
+  "version": "1.0.0",
+  "description": "Learning Node Package Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzzal71/Node-Package-Manager.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "uzzal71",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uzzal71/Node-Package-Manager/issues"
+  },
+  "homepage": "https://github.com/uzzal71/Node-Package-Manager#readme"
+}
